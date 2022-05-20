@@ -1,4 +1,4 @@
-# <div align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm DevelopersWork</div><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Graduate;%22I+am+technology+MAD+!%22&center=true&width=600&height=45"></a>
+# <div align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm DevelopersWork<br/><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Graduate;%22I+am+technology+MAD+!%22&center=true&width=600&height=45"></a></div>
 
 <img width="160" align="right" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/The%20Simpsons.png" />
 
