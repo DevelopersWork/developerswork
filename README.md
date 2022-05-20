@@ -51,7 +51,7 @@
   </a>
 </p>
 
-<img width="100" align="left" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/God%20of%20War%20Kratos.png" />
+<img width="200" align="left" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/God%20of%20War%20Kratos.png" />
 
 ## <img src = "https://c.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif" width="32px"/>&nbsp;***Github Trophy***
 
