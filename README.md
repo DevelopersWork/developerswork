@@ -51,6 +51,8 @@
   </a>
 </p>
 
+## <img src = "https://c.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif" width="32px"/>&nbsp;***Github Trophy***
+
 <img width="220" align="left" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/God%20of%20War%20Kratos.png" />
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerswork&theme=gruvbox&row=3&column=2&margin-w=15&margin-h=15" alt="developerswork" /></a> </p>
