@@ -10,7 +10,7 @@
 ✔ I’m looking to collaborate with any **Open Source Projects** <br>
 ✔ Self Learning from **YouTube**<br>
 ✔ I'm the guy you are looking for a video game party <br>
-✔ Ask from me anything else you want, If I am alive I will answer try and answer maybe 😉<br>
+✔ Ask me anything else, If I am alive I will try and answer maybe 😉<br>
 <br/>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>&nbsp;***Skills***
