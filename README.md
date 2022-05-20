@@ -18,7 +18,7 @@
 ✔ I'm the guy you are looking for a video game party <br>
 ✔ Ask from me anything else you want, If I am alive I will answer try and answer maybe 😉<br>
 <br/>
-<p align="center">⚡Don't be toxic for loosing, say <strong>GG</strong> since you had fun time⚡</p> <br/>
+<p align="center">⚡Don't be toxic for loosing, say <strong>GG</strong> since you had fun time⚡</p>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>&nbsp;***Skills***
 
@@ -45,4 +45,12 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></code>
+
+  <a href="https://github.com/developerswork">
+  <img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developerswork&custom_title=DevelopersWork's%20Contribution%20Graph&theme=github" />
+  </a>
 </p>
+
+<img width="220" align="left" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/God%20of%20War%20Kratos.png" />
+
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerswork&theme=gruvbox&row=3&column=2&margin-w=15&margin-h=15" alt="developerswork" /></a> </p>
