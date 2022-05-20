@@ -5,11 +5,10 @@
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Graduate;%22I+am+technology+MAD+!%22&center=true&width=600&height=55">
-  </a> <br/>
+  </a>
 </h1>
 
 <img width="160" align="right" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/The%20Simpsons.png" />
-<p align="center">⚡Don't be toxic for loosing, say <strong>GG</strong> since you had fun time⚡</p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"/>&nbsp;***About me***
 
@@ -18,6 +17,8 @@
 ✔ Self Learning from **YouTube**<br>
 ✔ I'm the guy you are looking for a video game party <br>
 ✔ Ask from me anything else you want, If I am alive I will answer try and answer maybe 😉<br>
+<br/>
+<p align="center">⚡Don't be toxic for loosing, say <strong>GG</strong> since you had fun time⚡</p> <br/>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>&nbsp;***Skills***
 
