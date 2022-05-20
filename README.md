@@ -52,4 +52,5 @@
 <br/>
 
 ## ***Let's Connect***
-<img src = "https://c.tenor.com/cxsA-a-8uz0AAAAC/tom-and-jerry-jerry-the-mouse.gif" width="" align="center"/>
+<p align="center"><img src="https://c.tenor.com/cxsA-a-8uz0AAAAC/tom-and-jerry-jerry-the-mouse.gif" /><br/>
+</p>
