@@ -7,9 +7,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Graduate;%22I+am+technology+MAD+!%22&center=true&width=600&height=55">
   </a> <br/>
 </h1>
-<p align="center">⚡Don't be toxic for loosing, say <strong>GG</strong> since you had fun time⚡</p>
 
-<img width="130" align="right" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/The%20Simpsons.png" />
+<img width="160" align="right" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/The%20Simpsons.png" />
+<p align="center">⚡Don't be toxic for loosing, say <strong>GG</strong> since you had fun time⚡</p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"/>&nbsp;***About me***
 
