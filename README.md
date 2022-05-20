@@ -1,12 +1,16 @@
-<h1 align="center" style="border: none;margin-bottom: 0;">
-    Hi 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, 
-    I'm DevelopersWork <br/>
+<div id="bigtext">
+    <span>BIGTEXT</span>
+    <span>Makes Text Big</span>
+</div>
+<script>
+$('#bigtext').bigtext();
+</script>
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Graduate;%22I+am+technology+MAD+!%22&center=true&width=600&height=55">
-  </a>
-</h1>
+# <div align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm DevelopersWork</div>
+
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Graduate;%22I+am+technology+MAD+!%22&center=true&width=600&height=55">
+</a>
 
 <img width="160" align="right" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/The%20Simpsons.png" />
 
