@@ -16,8 +16,8 @@
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>&nbsp;***Skills***
 
 <p>
-  <a href="https://github.com/developerswork">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerswork&theme=synthwave" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="50%" align="right" alt="DevelopersWork's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerswork&theme=synthwave" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -39,8 +39,8 @@
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></code>
   
-  <a href="https://github.com/developerswork">
-  <img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developerswork&custom_title=DevelopersWork's%20Contribution%20Graph&theme=github" />
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img alt="DevelopersWork's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developerswork&custom_title=DevelopersWork's%20Contribution%20Graph&theme=synthwave-84" />
   </a>
 </p>
 
