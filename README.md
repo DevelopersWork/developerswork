@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="60%" align="right" alt="DevelopersWork's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerswork&theme=synthwave" />
+    <img width="50%" align="right" alt="DevelopersWork's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerswork&theme=synthwave" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -28,7 +28,6 @@
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
