@@ -50,14 +50,14 @@
   </a>
 </p>
 
-<img width="200" align="left" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/Clash%20Royale.png" />
+<img height="300" align="left" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/Clash%20Royale.png" />
 
 ## <img src="https://c.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif" width="30"/>&nbsp;***Trophy Collection***
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerswork&theme=gruvbox&row=2&column=4&margin-w=25&margin-h=25" alt="developerswork" /></a> </p>
 <br/>
 
-## ***Let's Connect***
+## <div>***Let's Connect*** <a href="https://twitter.com/developersworkt"><img align="right" alt="DevelopersWork | Twitter" width="21" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/social/icons8-twitter.svg" /></a><a href="https://twitter.com/developersworkt"><img align="right" alt="DevelopersWork | Discord" width="21" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/social/icons8-discord.svg" /></a></div>
 <p align="center"><img width="100%" src="https://c.tenor.com/cxsA-a-8uz0AAAAC/tom-and-jerry-jerry-the-mouse.gif" /><br/>
 </p>
 
@@ -67,7 +67,3 @@
 </p>
 
 <br/>
-
-<a href="https://twitter.com/developersworkt">
-  <img align="right" alt="DevelopersWork | Twitter" width="21px" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/Clash%20Royale.png" />
-</a>
