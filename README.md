@@ -50,9 +50,9 @@
   </a>
 </p>
 
-<img width="200" align="left" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/God%20of%20War%20Kratos.png" />
+<img width="200" align="left" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/Clash%20Royale.png" />
 
-## <img src = "https://c.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif" width="30"/>&nbsp;***Github Trophy***
+## <img src="https://c.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif" width="30"/>&nbsp;***Trophy Collection***
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerswork&theme=gruvbox&row=2&column=4&margin-w=25&margin-h=25" alt="developerswork" /></a> </p>
 <br/>
@@ -65,3 +65,9 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/developerswork"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developerswork" /></a>
 </p>
+
+<br/>
+
+<a href="https://twitter.com/developersworkt">
+  <img align="right" alt="DevelopersWork | Twitter" width="21px" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/Clash%20Royale.png" />
+</a>
