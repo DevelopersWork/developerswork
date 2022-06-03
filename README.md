@@ -24,26 +24,26 @@
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   #### <div>IDE</div>
-  <img height="60" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
+  <a><img height="60" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
 
   #### <div>Environment</div>
-  <img height="60" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+  <a><img height="60" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
 
   #### <div>Cloud</div>
-  <img width="8%" src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg"/>
-  <img width="8%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+  <a><img width="8%" src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg"/></a>
+  <a><img width="8%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a>
+  <a><img width="8%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
 
   #### <div>Backend/Database</div>
-  <img width="20%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-  <img width="20%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-  <img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
-  <img width="20%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+  <a><img width="20%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
+  <a><img width="20%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
+  <a><img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a>
+  <a><img width="20%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
 
   #### <div>Big Data</div>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg">
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></a>
   
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img alt="DevelopersWork's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developerswork&custom_title=DevelopersWork's%20Contribution%20Graph&theme=synthwave-84" />
