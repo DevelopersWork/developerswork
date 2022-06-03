@@ -57,7 +57,7 @@
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerswork&theme=gruvbox&row=2&column=4&margin-w=25&margin-h=25" alt="developerswork" /></a> </p>
 <br/>
 
-## <div>***Let's Connect*** <a href="https://twitter.com/developersworkt"><img align="right" alt="DevelopersWork | Twitter" width="21" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/social/icons8-twitter.svg" /></a><a href="https://twitter.com/developersworkt"><img align="right" alt="DevelopersWork | Discord" width="21" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/social/icons8-discord.svg" /></a></div>
+## <div>***Let's Connect*** <a href="https://www.linkedin.com/in/developerswork"><img align="right" alt="DevelopersWork | Linkedin" width="21" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/social/icons8-linkedin.svg" /></a><a href="https://twitter.com/developersworkt"><img align="right" alt="DevelopersWork | Twitter" width="21" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/social/icons8-twitter.svg" /></a><a href="https://discord.gg/pCBUjb8"><img align="right" alt="DevelopersWork | Discord" width="21" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/social/icons8-discord.svg" /></a></div>
 <p align="center"><img width="100%" src="https://c.tenor.com/cxsA-a-8uz0AAAAC/tom-and-jerry-jerry-the-mouse.gif" /><br/>
 </p>
 
