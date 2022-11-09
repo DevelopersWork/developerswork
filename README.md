@@ -33,7 +33,6 @@
 
 <img src="https://raw.githubusercontent.com/DevelopersWork/developerswork/output/snake.svg" alt="Snake animation" />
 
-<br clear="both">
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>&nbsp;***Skills***
 
@@ -117,13 +116,7 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@developerswork&theme=radical" alt="Layout with last medium posts"  />
 </div>
 
-<br clear="both">
-
-###
-
 <img align="left" height="360" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/Clash%20Royale.png"  />
-
-###
 
 ## <img src="https://c.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif" width="30"/>&nbsp;***Trophy Collection***
 
@@ -146,9 +139,6 @@
 <a href="https://www.buymeacoffee.com/developerswork"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developerswork" /></a>
 </p>
 
-
-<br clear="both">
-
 <div align="center">
   <a href="https://www.instagram.com/developerswork/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -162,13 +152,7 @@
   <a href="https://twitter.com/developersworkt" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
+  <br/>
   <a href="https://www.hackerrank.com/developerswork?hr_r=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
@@ -181,3 +165,5 @@
 </div>
 
 ###
+
+<br clear="both">
