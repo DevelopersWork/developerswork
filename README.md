@@ -50,30 +50,59 @@
 
 <p>
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  #### <div>IDE</div>
-  <a><img height="100" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
+  #### <div>Programming Languages</div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  </div>
 
-  #### <div>Environment</div>
-  <a><img height="100" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
+  #### <div>Frameworks and Libraries</div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  </div>
+
+  #### <div>IDE</div>
+  <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  /></div>
 
   #### <div>Cloud</div>
-  <a><img width="100" src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg"/></a>
-  <a><img width="100" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a>
-  <a><img width="100" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" alt="bitbucket logo"  />
+    <img height="40" width="52" src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  </div>
 
-  #### <div>Backend/Database</div>
-  <a><img width="100" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
-  <a><img width="100" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
-  <a><img width="100" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a>
-  <a><img width="100" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
+  #### <div>Backend, Database and Deployment</div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  </div>
 
   #### <div>Big Data</div>
-  <a><img width="100" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a>
-  <a><img width="100" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a>
-  <a><img width="100" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></a>
+  <div>
+    <img height="40" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"/>
+    <img height="40" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"/>
+    <img height="40" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"/>
+  </div>
+
+  <br clear="both">
   
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img alt="DevelopersWork's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developerswork&custom_title=DevelopersWork's%20Contribution%20Graph&theme=synthwave-84" />
