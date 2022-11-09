@@ -121,18 +121,63 @@
 
 ###
 
-<img height="360" align="left" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/Clash%20Royale.png" />
+<img align="left" height="360" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/Clash%20Royale.png"  />
+
+###
 
 ## <img src="https://c.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif" width="30"/>&nbsp;***Trophy Collection***
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerswork&theme=gruvbox&row=2&column=4&margin-w=25&margin-h=25" alt="developerswork" /></a> </p>
 <br/>
 
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerswork&theme=gruvbox&row=2&column=4&margin-w=25&margin-h=25" alt="developerswork" /></a> </p>
+
+<br clear="both"/>
+
+###
+
 ## <div>***Let's Connect*** <a href="https://www.linkedin.com/in/developerswork" target="_blank"><img align="right" alt="DevelopersWork | Linkedin" width="21" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/ebe3c28437f443a2b5d6966346e082170f74e227/resources/social/icons8-linkedin.svg" /></a><a href="https://twitter.com/developersworkt" target="_blank"><img align="right" alt="DevelopersWork | Twitter" width="21" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/social/icons8-twitter.svg" /></a><a href="https://discord.gg/pCBUjb8" target="_blank"><img align="right" alt="DevelopersWork | Discord" width="21" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/social/icons8-discord.svg" /></a></div>
-<p align="center"><img width="100%" src="https://c.tenor.com/cxsA-a-8uz0AAAAC/tom-and-jerry-jerry-the-mouse.gif" /><br/>
+<p align="center"><img width="100%" src="https://c.tenor.com/cxsA-a-8uz0AAAAC/tom-and-jerry-jerry-the-mouse.gif" />
 </p>
 
-## <img src = "https://c.tenor.com/nJDAgh_80UMAAAAi/nabung-investasi.gif" width="30"/>&nbsp;***Sponsor***
+<br clear="both"/>
+
+## <img src = "https://c.tenor.com/nJDAgh_80UMAAAAi/nabung-investasi.gif" width="30"/>&nbsp;***#PEACE***
 <p align="center">
 <a href="https://www.buymeacoffee.com/developerswork"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developerswork" /></a>
 </p>
+
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.instagram.com/developerswork/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/developerswork" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/developerswork" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+  <a href="https://twitter.com/developersworkt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.hackerrank.com/developerswork?hr_r=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://leetcode.com/DevelopersWork/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://medium.com/@developerswork" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+###
