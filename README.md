@@ -1,4 +1,21 @@
-# <div align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm DevelopersWork<br/><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Condensed&size=32&duration=7500&color=00FFEB&center=true&vCenter=true&width=600&height=60&lines=Technology+Mad;Computer+Science+Graduate;Since+1999"></a></div>
+<h1 align="center">
+
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm DevelopersWork
+  <br/>
+  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Condensed&size=32&duration=7500&color=00FFEB&center=true&vCenter=true&width=600&height=60&lines=Technology+Mad;Computer+Science+Graduate;Since+1999"/>
+  </a>
+  
+###
+
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/developerswork/count.svg?"  />
+  </div>
+
+###
+
+</h1>
 
 <h3 align="center">⚡Don't be toxic for loosing, say <b>GG</b> since you had fun time⚡</h3>
 
@@ -11,7 +28,12 @@
 ✔ Self Learning from **YouTube**<br>
 ✔ I'm the guy you are looking for a video game party <br>
 ✔ Ask me anything else, If I am alive I will try and answer maybe 😉<br>
-<br/>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/developerswork/developerswork/blob/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>&nbsp;***Skills***
 
@@ -50,6 +72,18 @@
   </a>
 </p>
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@developerswork&theme=radical" alt="Layout with last medium posts"  />
+</div>
+
+<br clear="both">
+
+###
+
 <img height="360" align="left" alt="" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/Clash%20Royale.png" />
 
 ## <img src="https://c.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif" width="30"/>&nbsp;***Trophy Collection***
@@ -65,5 +99,3 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/developerswork"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developerswork" /></a>
 </p>
-
-<br/>
