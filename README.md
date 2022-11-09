@@ -31,16 +31,24 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/developerswork/developerswork/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DevelopersWork/developerswork/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>&nbsp;***Skills***
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=developerswork" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&username=developerswork" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="50%" align="right" alt="DevelopersWork's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerswork&theme=synthwave" />
-  </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
