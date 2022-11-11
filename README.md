@@ -23,10 +23,10 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"/>&nbsp;***About me***
 
-✔ I'm currently working at a **IT Company** <br>
+✔ 2+ years experienced **Specialist Programmer(Developer)**. <a href="https://www.linkedin.com/in/developerswork/" target="_blank">more details</a>  <br>
+✔ I'm the guy you are looking for 🎮<br>
 ✔ I’m looking forward on collaborating with **Open Source Projects** <br>
 ✔ Self Learning from **YouTube**<br>
-✔ I'm the guy you are looking for a video game party <br>
 ✔ Ask me anything else, If I am alive I will try and answer maybe 😉<br>
 
 <br clear="both">
