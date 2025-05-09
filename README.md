@@ -16,9 +16,9 @@
 
 <h3 align="center">⚡Don't be toxic for losing, say <b>GG</b> since you had fun time⚡</h3>
 
-<img width="160" align="right" alt="Bart Simpson" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/The%20Simpsons.png" />
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"/>&nbsp;**_About me_**
+
+<img width="80" align="right" alt="Bart Simpson" src="https://raw.githubusercontent.com/DevelopersWork/developerswork/master/resources/The%20Simpsons.png" />
 
 ✔ 4+ years experienced **Specialist Programmer(Data Engineer)**. <a href="https://www.linkedin.com/in/developerswork/" target="_blank">more details</a> <br>
 ✔ I'm the guy you are looking for 🎮<br>
